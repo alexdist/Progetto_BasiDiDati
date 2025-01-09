@@ -48,10 +48,10 @@ Il database è stato progettato seguendo il modello Entità-Relazioni (E/R) e su
 
 ## Autori
 
-- **Nome:** [Alessandro Di Stefano]
-- **Nome:** [Giuseppe Falco]
-- **Nome:** [Emanuela Baldassarre]
-- **Corso:** [Basi di Dati e Laboratorio]
-- **Università:** [Università degli Studi di Napoli "Parthenope"]
+- **Nome:** Alessandro Di Stefano
+- **Nome:** Giuseppe Falco
+- **Nome:** Emanuela Baldassarre
+- **Corso:** Basi di Dati e Laboratorio
+- **Università:** Università degli Studi di Napoli "Parthenope"
 
 
